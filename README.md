@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach. 
-- 👀 I’m interested in machine learning, computer vision, control theory, and neuroscience. 
+- 👀 I’m interested in machine learning, computer vision, control theory, optimization, robotics, and neuroscience. 
 - 🌱 I’m currently learning d3.js, systems theory, and deep learning for image segmentation. 
 - 🔬 I’m looking to collaborate on publishable research. 
 - 📫 Reach me via email: zachary.a.stoebner@vanderbilt.edu
