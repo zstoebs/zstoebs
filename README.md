@@ -1,6 +1,6 @@
 👋 Hi, I’m Zach!
 
-- I’m interested in machine learning & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
+- I’m interested in AI/ML & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
 - I'm learning about transformers :potted_plant:, ML for dynamic malware analysis :technologist:, and sensing :tongue:, particularly compressed sensing and sensor fusion algorithms. 
 
 
