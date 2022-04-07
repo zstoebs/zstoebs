@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Zach!
-- 💡 I’m interested in machine learning & neuroscience, control theory & optimization, and intelligent systems & robotics. 
-- 🌱 I’m currently learning computational game theory, open-source medical imaging, and Gaussian processes for ML. 
-- 🔬 I’m looking to collaborate on publishable research. 
-- 📫 Reach me via email: zachary.a.stoebner@vanderbilt.edu
-- 💻 Check out my webpage: https://zstoebs.github.io
+👋 Hi, I’m Zach!
+
+- I’m interested in machine learning & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
+- I'm learning about transformers :potted_plant:, ML for dynamic malware analysis :technologist:, and sensing :tongue:, particularly compressed sensing and sensor fusion algorithms. 
+
+
+I love haiku :japanese_ogre: and photography :camera: so check out https://zstoebs.github.io to see what I see :eyes:!
 
 <!---
 zstoebs/zstoebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
