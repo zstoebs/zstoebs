@@ -1,10 +1,10 @@
 👋 Hi, I’m Zach!
 
-- I’m interested in AI/ML & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
-- I'm learning about transformers :potted_plant:, ML for dynamic malware analysis :technologist:, and sensing :tongue:, particularly compressed sensing and sensor fusion algorithms. 
+:electric_plug: I'm an ECE PhD student @ UT Austin.
 
+:scientist: My research spans **image & signal processing** :signal_strength:, **deep learning** :mechanical_arm:, and **machine perception** :eyes: to solve challenging problems in autonomous systems. Generally, I’m interested in AI/ML & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
 
-I love haiku :japanese_ogre: and photography :camera: so check out https://zstoebs.github.io to see what I see :eyes:!
+:computer: Check out https://zstoebs.github.io!
 
 <!---
 zstoebs/zstoebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
