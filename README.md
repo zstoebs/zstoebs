@@ -2,7 +2,7 @@
 
 :electric_plug: I'm an ECE PhD student @ UT Austin.
 
-:scientist: My research spans **deep learning** :mechanical_arm:, **sensing & imaging** :signal_strength:, and **computer vision** :eyes: to solve challenging problems in autonomous systems. Generally, I’m interested in AI/ML & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
+:scientist: My research spans **deep learning** :mechanical_arm:, **sensing & imaging** :signal_strength:, and **computer vision** :eyes:. Generally, I’m interested in AI/ML & neuroscience :brain:, intelligent systems & robotics :robot:, and optimization & control :chart_with_upwards_trend:. 
 
 :computer: Check out https://zstoebs.github.io!
 
